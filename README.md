@@ -20,7 +20,7 @@ Using Raspberry Pi Pico, we are developing a Driving Assistant Bot (DAB). DAB is
 |7| Battery|1|
 
 ## Source Code
-Click on `code.ino` to open the code File!
+Click on `code.py` to open the code File!
 
 ## Highlights of DAB
 - Significant benifits for Hearing Impaired Drivers
