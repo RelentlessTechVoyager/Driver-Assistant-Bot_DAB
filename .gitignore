@@ -1,9 +1,0 @@
-{
-    "BOT_TOKEN": "6673412321:AAGh4Y7DTZfnkQs9JYLai81S4mlmkoME9J8",
-    "CHAT_ID": "6312386599",
-    "BAUDRATE": 115200,
-    "UART_INTERFACE": 0,
-    "TX_PIN": 12,
-    "RX_PIN": 13,
-    "APN": "JioNet"
-}
